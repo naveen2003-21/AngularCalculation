@@ -257,3 +257,4 @@ export class CuboidComponent{
 
 
 ## Result:
+A dynamic website to perform mathematical calculations using Angular Framwork is designed.
