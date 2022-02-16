@@ -250,6 +250,10 @@ export class CuboidComponent{
 ## OUTPUT:
 
 ### Home Page:
+![image](https://user-images.githubusercontent.com/94387019/154211455-0dcb5cd1-5092-46ef-9c55-9a3e39255124.png)
+![image](https://user-images.githubusercontent.com/94387019/154211552-42645e41-e703-4bfe-8705-9441beec4fed.png)
+![image](https://user-images.githubusercontent.com/94387019/154211603-2eaf84d7-6b98-4ac5-9893-6d817fc5c445.png)
+
 
 
 ## Result:
